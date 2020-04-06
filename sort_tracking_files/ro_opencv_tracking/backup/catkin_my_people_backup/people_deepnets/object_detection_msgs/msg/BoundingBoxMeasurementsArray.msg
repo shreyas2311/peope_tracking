@@ -1,0 +1,2 @@
+std_msgs/Header header
+object_detection_msgs/BoundingBox[] bounding_box_array
